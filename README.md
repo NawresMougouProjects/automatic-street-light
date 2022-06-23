@@ -1,4 +1,4 @@
-# automatic-street-light
+# street-light
 ## here is the PCB design :
 ![Capture d’écran 2022-06-24 002150](https://user-images.githubusercontent.com/62567205/175430728-6dfc90be-569b-4b8d-b571-906d987de00a.png)
 ## this is the schematic :
